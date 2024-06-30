@@ -1,6 +1,6 @@
 select 名義
 from 口座
-except
+intersept
 select 名義
 from 廃止口座
 
