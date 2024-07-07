@@ -8,4 +8,4 @@ else
     cast(残高*(.00001) as integer ) 
 end 
 from 口座
-order by 残高 desc
+order by 残高 desc 
